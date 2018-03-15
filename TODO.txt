@@ -1,0 +1,3 @@
+TODO
+######### STOP OVERFITTING
+## calibrar os parametros do dataset Titanic para tentar melhorar o Accuracy (Kernel, C, Gamma)
